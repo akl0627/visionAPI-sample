@@ -1,2 +1,2 @@
 # visionAPI-sample
-Amazonの本から持ってきたOCRサンプルに加筆
+dead  Amazonの本から持ってきたOCRサンプルに加筆
